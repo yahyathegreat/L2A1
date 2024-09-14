@@ -7,3 +7,6 @@ y="yahya"
 print(y)
 name=input("enter your name")
 print(name)
+birthday=input("enter your birthday")
+print(birthday)
+print("congrats")
